@@ -1,0 +1,61 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Rider and ReSharper settings
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs/
+*.log
+*.tlog
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Compiled DLLs & Executables
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+*.app
+
+# Test Results
+TestResults/
+coverage/
+coverage.info
+coverage.opencover.xml
+
+# Temporary Files
+*.tmp
+*.cache
+*.pidb
+*.mdb
+
+# Auto-generated files
+GeneratedFiles/
+ServiceFabricBackup/
+
+# Rider and MonoDevelop files
+*.pidb
+*.iml
+*.sln.iml
+
+# Resharper files
+*.DotSettings.user
+
+# User-specific files
+*.rsuser
+*.s
