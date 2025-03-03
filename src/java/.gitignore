@@ -1,0 +1,27 @@
+# Build artifacts
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Logs and debug
+*.log
+
+# Maven-specific ignores
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+dependency-reduced-pom.xml
+release.properties
+
+# Test reports and coverage
+test-output/
+coverage/
+jacoco.exec

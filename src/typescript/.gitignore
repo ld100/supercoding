@@ -1,0 +1,25 @@
+# Ignore node_modules (dependencies)
+node_modules/
+
+# Ignore compiled JavaScript files
+dist/
+build/
+*.js
+*.js.map
+*.d.ts
+
+# Logs and debug
+*.log
+debug.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Editor and IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Test coverage
+coverage/

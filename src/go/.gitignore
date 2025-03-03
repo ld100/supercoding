@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.out
+*.a
+*.o
+*.so
+
+# Build artifacts
+bin/
+dist/
+
+# Dependency files
+vendor/
+go.sum
+go.mod
+
+# IDE and editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Test results
+coverage/
+*.coverprofile

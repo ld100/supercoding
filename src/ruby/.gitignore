@@ -1,0 +1,23 @@
+# Ignore log files and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore compiled files
+*.o
+*.out
+
+# Ignore bundler dependencies
+/vendor/bundle
+
+# Ignore coverage reports
+coverage/
+*.cover
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore test results
+test/tmp/
